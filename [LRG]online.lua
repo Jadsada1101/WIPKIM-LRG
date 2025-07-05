@@ -12,7 +12,7 @@ _Spr1=0x4ED53C
 _Spr2=0x83AE10
 _Spr3=0x4F1D14
 _Spr4=0x5B85D8
-_Spr7=0x142E280
+_Spr5=0x142E280
 _Spr6=0xD30CC8
 
 function main()
