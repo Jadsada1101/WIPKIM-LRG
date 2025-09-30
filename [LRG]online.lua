@@ -16,11 +16,11 @@ Subt = 1000000
 -- Code Value LRG
 
 _Spr1 = 0x50D454
-_Spr2 = 0x7EEB68
-_Spr3 = 0x7ECAF4
-_Spr4 = 0x53C558
-_Spr5 = 0xF69254
-_Spr6 = 0xC17390
+_Spr2 = 0x5CE498
+_Spr3 = 0x5B55F8
+_Spr4 = 0x5C1320
+_Spr5 = 0x0
+_Spr6 = 0xC170B4
 
 function main()
     Devl = gg.multiChoice({Mul1 .. " ⪩ ปล่อยตัว 0วิ ", Mul2 .. " ⪩ ตีแรง 999 ",
@@ -220,5 +220,6 @@ while true do
     end
     Multi = -1
 end
+
 
 
