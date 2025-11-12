@@ -91,7 +91,7 @@ function Meu2()
             ["getList"] = "libgame.so"
         }, {
             ["Address"] = _Spr2,
-            ["edit"] = 99999
+            ["edit"] = 999999
         }}
         xAqpb(dumb)
         gg.toast("📄 ᴅᴏɴᴇ : ᴡᴏʀᴋɪɴɢ...")
@@ -116,7 +116,7 @@ function Meu3()
             ["getList"] = "libgame.so"
         }, {
             ["Address"] = _Spr3,
-            ["edit"] = 9999
+            ["edit"] = 50
         }}
         xAqpb(dumb)
         gg.toast("📄 ᴅᴏɴᴇ : ᴡᴏʀᴋɪɴɢ...")
@@ -220,6 +220,7 @@ while true do
     end
     Multi = -1
 end
+
 
 
 
