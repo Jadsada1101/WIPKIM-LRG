@@ -16,7 +16,7 @@ Subt = 1000000
 -- Code Value LRG
 
 _Spr1 = 0x514088
-_Spr2 = 0x
+_Spr2 = 0x805898
 _Spr3 = 0x517B34
 _Spr4 = 0x5CA518
 _Spr5 = 0xFA4EC0
@@ -220,6 +220,7 @@ while true do
     end
     Multi = -1
 end
+
 
 
 
