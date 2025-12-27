@@ -19,7 +19,7 @@ _Spr1 = 0x51ADA0
 _Spr2 = 0x80F12C
 _Spr3 = 0x51E938
 _Spr4 = 0x5D2DB8
-_Spr5 = 0xFB7FBC
+_Spr5 = 0xFB9278
 _Spr6 = 0xC69948
 
 function main()
@@ -220,6 +220,7 @@ while true do
     end
     Multi = -1
 end
+
 
 
 
